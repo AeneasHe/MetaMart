@@ -297,9 +297,12 @@ MetaSwap 交易系统有两种资金池：流动性池，储备金池。流动�
 - 5.退出储备金池  
     - 商家和用户都可以销毁自己提供的储备金，对应的 MT 数量销毁，并获得法币 
 
-### 5.2.2 MetaSwap 流动性池
+### 5.2.2 MetaPool 资金池
+- Liquidity Pool 流动性池
+- Reserve Pool 储备金池
 
-### 5.2.3 MetaSwap 储备金池
+### 5.2.3 Fee 手续费
+
 
 ## 5.3 MetaWallet 钱包
 
@@ -331,11 +334,11 @@ Mart 模块是和商业实体发生关系的场所，承载着MetaMart打造区�
 
 ### 5.4.1 MetaChain 0.1 汽车
 
-MetaChain 0.1 并不是真正的公链，或者可以称为虚拟公链，技术核心是基于 Universal EVM Interface 的通用接口，底层可以对接所有与以太坊 EVM 兼容的公链，未来自研的 MetaChain 1.0、2.0、3.0 也都将采用兼容 EVM 的技术方案，接入 Universal EVM Interface 的体系，所以 MetaMart 的上层应用在技术上可以从第三方公链上无缝迁移到自研公链上。
+MetaChain 0.1 并不是真正的公链，或者可以称为虚拟公链，技术核心是基于 Universal EVM Interface 的通用接口，底层可以对接所有与以太坊 EVM 兼容的公链，未来自研的 MetaChain 1.0、2.0、3.0 也都将采用兼容 EVM 的技术方案，接入 Universal EVM Interface 的体系，所以 MetaMart 的上层应用可以从第三方公链上无缝迁移到自研公链上。
 
 Universal EVM Interface 的有两个核心的子模块，一个是类 [The Graph](https://thegraph.com/) 和 [Covalent](https://www.covalenthq.com/) 的链上数据通用查询的 API 模块， 一个是签名后的数据代理转发到区块链节点的模块。
 
-### 5.4.2 MetaChain 1.0 绿皮车
+### 5.4.2 MetaChain 1.0 普快
 
 MetaChain 1.0 将 Fork 以太坊 1.0 并将根据业务模式进行小规模修改，采用根据 POW 修改的 MPOW（Meta Proof Of Work） 共识机制出块。
 
@@ -359,9 +362,22 @@ MetaChain 3.0 的目标是进一步提升性能，也是为满足政府监管需
 
 云计算中心数量限制为21个，并将充分考虑到社区代表性和政府监管要求，至少有1个政府节点，1个学术界节点，1个非政府组织节点。
 
-## 5.5 MetaFinance 金融
+## 5.5 MiddleService 中间服务
 
-MetaFinance是对
+MiddleService 中间服务是为商业实体提供更多的服务，使得商业实体可以更便捷、更高效、更广泛的接入到 MetaSwap 体系中来。可预见的中间服务包括 MetaNFT 非同质化通证，用于描述商业实体的差异化产品，尤其是粉丝经济中的限量款商品或私人定制商品； MetaFile 去中心化存储，用于为商业实体提供多媒体资源服务，例如产品图片、艺术图片、短视频、直播快照等； MetaLink 预言机用于帮助商业实体将复杂结构的数据或不便于直接上链的数据桥接入区块链，例如商品的法币价格、库存；MetaGraph 数据图则为商业实体提供更高效率的区块链世界数据的API查询服务，比如流动性池中通证的历史价格、会员质押的LP-Token数量等。MiddleService 不仅限于以上列举的服务，随着 MetaSwap 的发展及商业实体的需求变化，将引入更多生态中间服务，为用户提供更好的体验。
 
-# 六、 发展规划
-# 七、 产品预览
+## 5.6 MetaFinance 金融
+
+MetaFinance 广义上包括所有 MetaMart 提供的区块链金融服务，狭义上是指除了 MetaSwap IMO 以外的区块链金融服务，按照企业从早期到成熟的发展时期分为 MetalAngle 区块链天使融资、 MetaVenture 区块链风险融资、 MetaDai 区块链借贷、 MetaInsurance 区块链保险、 Meta
+
+# 六、 技术路线
+## 6.1 虞
+
+## 6.2 夏
+## 6.3 商
+## 6.4 周
+
+
+# 七、 市场规划
+
+# 八、 产品预览
