@@ -5,9 +5,11 @@ MetaMart whitepaper
 
 # 前言
 ```
+
 基于可信共识进行权益重新分配带来的自组织效率优化将必然带来一场社会改良运动。  
 
-He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me.
+He who receives an idea from me, receives instruction himself without lessening mine; 
+as he who lights his taper at mine, receives light without darkening me.
 
 我将思想传授他人，他人之所得，无损于我之所有，犹如一人以我之烛火点烛，光亮与他同在，我亦不因此身处黑暗。  
 
