@@ -7,7 +7,7 @@ MetaMart whitepaper
 ```
 基于可信共识进行权益重新分配带来的自组织效率优化将必然带来一场社会改良运动。  
 
-Hewhoreceivesanideafrommetreceivesinstructionhimselfwithoutlesseningmine;ashewholightshistaperatmine，receiveslightwithoutdarkeningme.  
+He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me.
 
 我将思想传授他人，他人之所得，无损于我之所有，犹如一人以我之烛火点烛，光亮与他同在，我亦不因此身处黑暗。  
 
@@ -38,9 +38,9 @@ Hewhoreceivesanideafrommetreceivesinstructionhimselfwithoutlesseningmine;ashewho
 * [3.3  去中心化交易系统](#33--去中心化交易系统)
 * [3.4 流动性池](#34-流动性池)
 * [四、 经济模型](#四-经济模型)
-* [4.1  MB 通证设计](#41- MB -通证设计)
-* [4.2  MB 通证发行](#42- MB -通证发行)
-* [4.3  MB 通证激励模型](#43- MB -通证激励模型)
+* [4.1  MB 通证设计](#41-MB-通证设计)
+* [4.2  MB 通证发行](#42-MB-通证发行)
+* [4.3  MB 通证激励模型](#43-MB-通证激励模型)
 * [五、 MetaMart 技术架构](#五-MetaMart-技术架构)
 * [5.1 技术理念](#51-技术理念)
 * [5.2 MetaSwap 交易所](#52-MetaSwap-交易所)
@@ -61,10 +61,10 @@ Hewhoreceivesanideafrommetreceivesinstructionhimselfwithoutlesseningmine;ashewho
 * [5.6 MetaFinance 金融](#56-MetaFinance-金融)
 * [六、 发展规划](#六-发展规划)
 * [6.1 技术路线](#61-技术路线)
-	* [6.1.1 第一阶段：达芬奇](#611-第一阶段生态启动：达芬奇)
-	* [6.2.1 第二阶段：莫奈](#621-第二阶段：莫奈)
-	* [6.3.1 第三阶段：梵高](#631-第三阶段：梵高)
-	* [6.4.1 第四阶段：毕加索](#641-第四阶段：毕加索)
+	* [6.1.1 第一阶段：达芬奇计划](#611-第一阶段达芬奇计划)
+	* [6.2.1 第二阶段：莫奈计划](#621-第二阶段莫奈计划)
+	* [6.3.1 第三阶段：梵高计划](#631-第三阶段梵高计划)
+	* [6.4.1 第四阶段：毕加索计划](#641-第四阶段毕加索计划)
 * [6.2 市场规划](#62-市场规划)
 * [七、 产品预览](#七-产品预览)
 
@@ -398,18 +398,18 @@ MetaMart 技术路线以底层使用公链不同进行分期，各阶段的名�
 
 ![Roadmap](./img/Roadmap.png)
 
-### 6.1.1 第一阶段：达芬奇
+### 6.1.1 第一阶段：达芬奇计划
 达芬奇计划的主要目标是 MetaSwap 的正式上线，配套的底层公链 MetaChain 1.0 中的 Universal EVM Interface 及辅助系统 MetaOTC 也将在同一期完成。达芬奇时期的产品功能相对单一，钱包直接以第三方钱包接入即可。
 
-### 6.2.1 第二阶段：莫奈
+### 6.2.1 第二阶段：莫奈计划
 莫奈计划的底层公链 MetaChain2.0 是
 
 莫奈计划的主要目标是 MetaWallet 的上线，子模块 Wallet、Meta、Mart 完善，提供多样化的去中心化金融产品和商业实体商品服务，充分满足投资者和消费者的需求。同时，大力开发MetaNFT, MetaFile 服务，帮助商业实体大量将商品服务和商业行为上链。
 
-### 6.3.1 第三阶段：梵高
+### 6.3.1 第三阶段：梵高计划
 梵高计划的主要目标是将区块链世界中的数据流、资金流和传统互联网世界进行深度融合，一方面借助 MetaGraph 将链上数据提供便利的API服务，一方面借助 MetaLink 将传统互联网世界中产生的大量数据上链。同时，梵高计划还将提供多样化的去中心化金融服务，包括 MetaDai 和 MetaInsurance。
 
-### 6.4.1 第四阶段：毕加索
+### 6.4.1 第四阶段：毕加索计划
 毕加索计划的主要目标是将 MetaMart 系列及第三方去中心化金融服务打造成可组合的乐高积木，无论是专业投资者还是业余投资者，甚至普通投资者都可以轻松的按照需要自由组合各项服务，大大提高商品购买和投资便利性。
 
 ## 6.2 市场规划
