@@ -57,7 +57,7 @@ as he who lights his taper at mine, receives light without darkening me.
 	* [5.2.3 Fee 手续费](#523-Fee-手续费)
 * [5.3 MetaWallet 钱包](#53-MetaWallet-钱包)
 	* [5.3.1 Wallet 模块](#531-Wallet-模块)
-	* [5.3.2 OTC 模块](#532-OTC-模块)
+	* [5.3.2 TPA 模块](#532-TPA-模块)
 	* [5.3.3 Meta 模块](#533-Meta-模块)
 	* [5.3.4 Mart 模块](#534-Mart-模块)
 * [5.4 MetaChain 公链](#54-MetaChain-公链)
@@ -69,10 +69,10 @@ as he who lights his taper at mine, receives light without darkening me.
 * [5.6 MetaFinance 金融](#56-MetaFinance-金融)
 * [六、 发展规划](#六-发展规划)
 * [6.1 技术路线](#61-技术路线)
-	* [6.1.1 第一阶段：达芬奇计划](#611-第一阶段：达芬奇计划)
-	* [6.2.1 第二阶段：莫奈计划](#621-第二阶段：莫奈计划)
-	* [6.3.1 第三阶段：梵高计划](#631-第三阶段：梵高计划)
-	* [6.4.1 第四阶段：毕加索计划](#641-第四阶段：毕加索计划)
+	* [6.1.1 第一阶段：达芬奇计划](#611-第一阶段达芬奇计划)
+	* [6.2.1 第二阶段：莫奈计划](#621-第二阶段莫奈计划)
+	* [6.3.1 第三阶段：梵高计划](#631-第三阶段梵高计划)
+	* [6.4.1 第四阶段：毕加索计划](#641-第四阶段毕加索计划)
 * [6.2 市场规划](#62-市场规划)
 * [七、 产品预览](#七-产品预览)
 
@@ -329,7 +329,7 @@ MetaSwap 的运转过程如下：
 
 ## 5.3 MetaWallet 钱包
 
-MetaWallet 是为 MetaMart 专业定制的区块链钱包，承载所有 MetaMart 的功能，是所有 MetaMart 系列产品的流量入口。用户包括投资者、消费者、生产者也可以通过第三方钱包如 MetaMask、Imtoken 等直接与 MetaMart 交互，不过第三方钱包提供的功能较少，不能及时更新 MetaMart 推出的新功能，体验非常受限。MetaWallet 除了区块链标准钱包模块 Wallet 以外，还将提供 OTC、Meta、Mart 功能，其中 OTC 支持法币购买资产或商品，Meta对接各种 DEFI 产品供提供偏投资属性的功能，Mart 提供商品买卖、会员管理等偏消费属性的功能，下面详细介绍。  
+MetaWallet 是为 MetaMart 专业定制的区块链钱包，承载所有 MetaMart 的功能，是所有 MetaMart 系列产品的流量入口。用户包括投资者、消费者、生产者也可以通过第三方钱包如 MetaMask、Imtoken 等直接与 MetaMart 交互，不过第三方钱包提供的功能较少，不能及时更新 MetaMart 推出的新功能，体验非常受限。MetaWallet 除了区块链标准钱包模块 Wallet 以外，还将提供 TPA、Meta、Mart 功能，其中 TPA（token purchasing agents） 支持法币购买资产或商品，Meta对接各种 DEFI 产品供提供偏投资属性的功能，Mart 提供商品买卖、会员管理等偏消费属性的功能，下面详细介绍。  
 
 ### 5.3.1 Wallet 模块
 
@@ -339,9 +339,9 @@ MetaMart 充分尊重用户隐私，非必要不记录用户的任何信息。�
 
 最后，在标准区块链钱包功能基础上，MetaWallet还将开发区块链社区治理功能，包括投票、多签名、Layer2的拼交易等功能，拼交易是指借助Layer2技术帮助多个用户凑齐一批交易然后一次性发送给节点打包节省手续费。  
 
-### 5.3.2 OTC 模块
+### 5.3.2 TPA 模块
 
-OTC 模块提供场外交易功能，设计目标是以最佳的体验，帮助用户使用法币购买代币，鼓励用户用代币支付商品购买费用或者投资 DEFI 产品。MetaMart 将使用不同于中心化交易所 OTC 的特别设计机制，帮助区块链的产品出圈，使得更多用户接受区块链的流动性池、Token、NFT和去中心化思想。  
+TPA 模块提供通证代购的功能，设计目标是以最佳的体验，帮助用户使用法币购买代币，鼓励用户用代币支付商品购买费用或者投资 DEFI 产品。MetaMart 将使用特别的设计机制，帮助区块链的产品出圈，使得更多用户接受区块链的流动性池、Token、NFT和去中心化思想。  
 
 ### 5.3.3 Meta 模块
 
@@ -407,10 +407,9 @@ MetaMart 技术路线以底层使用公链不同进行分期，各阶段的名�
 ![Roadmap](./img/Roadmap.png)
 
 ### 6.1.1 第一阶段：达芬奇计划
-达芬奇计划的主要目标是 MetaSwap 的正式上线，配套的底层公链 MetaChain 1.0 中的 Universal EVM Interface 及辅助系统 MetaOTC 也将在同一期完成。达芬奇时期的产品功能相对单一，钱包直接以第三方钱包接入即可。
+达芬奇计划的主要目标是 MetaSwap 的正式上线，配套的底层公链 MetaChain 1.0 中的 Universal EVM Interface 及辅助系统 MetaTPA 也将在同一期完成。达芬奇时期的产品功能相对单一，钱包直接以第三方钱包接入即可。
 
 ### 6.2.1 第二阶段：莫奈计划
-莫奈计划的底层公链 MetaChain2.0 是
 
 莫奈计划的主要目标是 MetaWallet 的上线，子模块 Wallet、Meta、Mart 完善，提供多样化的去中心化金融产品和商业实体商品服务，充分满足投资者和消费者的需求。同时，大力开发MetaNFT, MetaFile 服务，帮助商业实体大量将商品服务和商业行为上链。
 
